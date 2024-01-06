@@ -1,0 +1,19 @@
+.homepage {
+    background-color: #3b3838;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+a:visited {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #6d6df6;
+}
+
+ul {
+    display: inline-block;
+}
